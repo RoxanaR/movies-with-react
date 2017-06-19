@@ -1,0 +1,12 @@
+.App-intro {
+  font-size: large;
+}
+
+.App-list {
+    list-style-type: none;
+    float: left;
+}
+.search-title {
+    margin-bottom: 10px;
+    font-size: 24px;
+}
